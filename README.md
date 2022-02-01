@@ -1,7 +1,7 @@
 # 💫About Me :
 من علی صادقی هستم برنامه نویس وب و اپلیکیشن های موبایل
 18 سالمه و عاشق برنامه نویسی و یادگیری چیز های جدید هستم
-و بزرگترن هدف من محاجرت به یک کشور دیگه و تجربه چیز های جدیده
+و بزرگترن هدف من مهاجرت به یک کشور دیگه و تجربه چیز های جدیده
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alisadeghi81_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/channel/UCUYBgDhDtNhNSvTZwU8c0CQ) 
